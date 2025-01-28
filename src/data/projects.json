@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Project A",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "TailwindCSS" ],
+    "demo": "https://dashboard-aap-elyl-3yrmyivs1-anurags-projects-7e1c9124.vercel.app/",
+    "source": "https://github.com/Anurag7752/Dashboard_aap"
+  },
+  {
+    "title": "Project B",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React"],
+    "demo": "https://google-docs-clone-ew4nj3kf1-anurags-projects-7e1c9124.vercel.app/",
+    "source": "https://github.com/Anurag7752/Google-docs-clone"
+  },
+  {
+    "title": "Project C",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "TailwindCSS"],
+    "demo": "https://my-portfolio-w3s2.vercel.app/",
+    "source": "https://github.com/Anurag7752/My_portfolio"
+  }
+]
